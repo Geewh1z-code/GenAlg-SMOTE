@@ -41,8 +41,8 @@ pip install pandas numpy scikit-learn imblearn matplotlib
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/credit-card-fraud-detection-ga.git
-   cd credit-card-fraud-detection-ga
+   git clone https://github.com/Geewh1z-code/GenAlg-SMOTE.git)
+   cd GenAlg-SMOTE
    ```
 
 2. **Download the dataset**:
